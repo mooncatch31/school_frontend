@@ -1,0 +1,3 @@
+Go to "localhost:3000/login/adminlogin"
+After successfully running the server, a dummy admin should be created.
+Dummy admin username = ADMDUMMY, password = 123
